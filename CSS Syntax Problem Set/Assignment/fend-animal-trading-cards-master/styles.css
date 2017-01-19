@@ -1,6 +1,6 @@
 /* add your CSS here */
 
-#outerborder {
+#outercard {
   display: block;
   margin: auto;
   border: 1px solid grey;
@@ -25,7 +25,7 @@ img {
   border-radius: 3px;
 }
 
-#innerborder {
+#innercard {
   border: 1px solid grey;
   height: 330px;
   height: auto;
