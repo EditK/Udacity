@@ -1,0 +1,48 @@
+/* add your CSS here */
+
+#outerborder {
+  display: block;
+  margin: auto;
+  border: 1px solid grey;
+  width: 332px;
+  height: 620px;
+  color: black;
+  font-family: Sans-serif;
+  font-size: 14px;
+  -webkit-box-shadow:0px 5px 5px grey;
+  -moz-box-shadow:0px 5px 5px grey;
+  box-shadow:0px 5px 5px grey;
+}
+
+h3 {
+  margin-left: 16px;
+  }
+
+img {
+  width: 300px;
+  height: 200px;
+  margin-left:16px;
+  border-radius: 3px;
+}
+
+#innerborder {
+  border: 1px solid grey;
+  height: 330px;
+  height: auto;
+  margin: 16px;
+  border-radius: 3px;
+  padding: 10px;
+}
+
+#interestingFacts {
+  font-style: italic;
+}
+
+ul {
+  list-style: none;
+  padding: 0px;
+}
+
+.boldedText {
+  font-weight: bold;
+}
